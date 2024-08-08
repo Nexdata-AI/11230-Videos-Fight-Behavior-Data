@@ -3,7 +3,7 @@
 ## Description
 11,230 Videos - Fight Behavior Data. The data includes indoor scenes (dining room, living room, boxing room, etc.), outdoor scenes (road, crosswalk, lawn, etc.). The data covers multiple scenes, multiple races, multiple types of fighting. The data can be used for tasks such as fight behavior detection, fight behavior recognition and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1245?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1245?source=Github
 
 
 ## Data size
